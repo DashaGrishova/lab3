@@ -1,0 +1,39 @@
+# depslib dependency file v1.0
+1590135297 source:c:\users\Юлия\desktop\lab3\lab3\device.cpp
+	"device.h"
+
+1590135297 c:\users\Юлия\desktop\lab3\lab3\device.h
+	<iostream>
+	<cstring>
+
+1590135297 source:c:\users\Юлия\desktop\lab3\lab3\laptop.cpp
+	"laptop.h"
+
+1590135297 c:\users\Юлия\desktop\lab3\lab3\laptop.h
+	"device.h"
+
+1590135297 source:c:\users\Юлия\desktop\lab3\lab3\tablet.cpp
+	"tablet.h"
+
+1590135297 c:\users\Юлия\desktop\lab3\lab3\tablet.h
+	"device.h"
+
+1590135532 source:c:\users\Юлия\desktop\lab3\lab3\phone.cpp
+	"phone.h"
+
+1590135532 c:\users\Юлия\desktop\lab3\lab3\phone.h
+	"device.h"
+
+1590135544 source:c:\users\Юлия\desktop\lab3\lab3\main.cpp
+	"device.h"
+	"phone.h"
+	"laptop.h"
+	"tablet.h"
+	"SmartWatch.h"
+
+1590135620 c:\users\Юлия\desktop\lab3\lab3\smartwatch.h
+	"device.h"
+
+1590135796 source:c:\users\Юлия\desktop\lab3\lab3\smartwatch.cpp
+	"SmartWatch.h"
+
